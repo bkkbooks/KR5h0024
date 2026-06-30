@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5h0024/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5h0024/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太微帝君二十四神回元經
+  date: '2015-08-29 03:02:52.171984'
+  source:
+    repository: kanripo
+    path: KR5h0024
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5h0024_000-HFL.yaml, hash: 'sha256:5cc7ae15d9117d3d62fb8b59550ed67b9146481fd9f7caccb9afd9067f5d9259'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5h0024_000-HFL.markers.yaml, hash: 'sha256:848dce8dcf118a6e7c94bb4b9d6791bfaeef36bba0c0df67dceba5fd4a2fe854'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5h0024_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 1938
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:4e8e99fdf35fccd1934f72e1aadb6dfc9fff0ca1a28b5f923ac37b9ffe2828a3
